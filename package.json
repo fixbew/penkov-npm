@@ -1,6 +1,6 @@
 {
   "name": "penkov-npm",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "description": "Only gulp, dont touch html,css,js,blade XD",
   "main": "index.js",
   "keywords": [
