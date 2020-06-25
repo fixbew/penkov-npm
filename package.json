@@ -12,5 +12,8 @@
   },
   "author": "fixbew",
   "license": "ISC",
-  "homepage": "https://github.com/fixbew/penkov-npm.git#readme"
+  "homepage": "https://github.com/fixbew/penkov-npm.git#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
