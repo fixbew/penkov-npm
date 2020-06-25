@@ -1,5 +1,5 @@
 {
-  "name": "penkov-no-webpack",
+  "name": "penkov-npm",
   "version": "1.0.0",
   "description": "Only gulp, dont touch html,css,js,blade XD",
   "main": "index.js",
@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myname/mypackage.git"
+    "url": "git+https://github.com/fixbew/penkov-npm.git"
   },
   "author": "fixbew",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/fixbew/penkov-npm.git#readme"
 }
