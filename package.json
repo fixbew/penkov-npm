@@ -4,7 +4,7 @@
   "description": "Only gulp, dont touch html,css,js,blade XD",
   "main": "index.js",
   "scripts": {
-    "test": "penkov test"
+    "penkov": "npm penkov run"
   },
   "repository": {
     "type": "git",
