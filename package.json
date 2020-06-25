@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Only gulp, dont touch html,css,js,blade XD",
   "main": "index.js",
+  "keywords": [
+    "penkov"
+  ],
   "scripts": {
-    "penkov": "npm penkov run"
+    "penkov": "node /node_modules/penkov-npm/index.js"
   },
   "repository": {
     "type": "git",
